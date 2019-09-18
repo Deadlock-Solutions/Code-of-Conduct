@@ -1,9 +1,8 @@
-#Code of conduct
-
+# Code of conduct
 The company expects that its employees will always display the highest standards of
 professional and personal conduct in serving the needs of customers and stakeholders.
 
-#Obligations
+# Obligations
 All employees have an obligation and duty of care to:
 1. Comply with prevailing community standards of equity, justice, fairness and
    compassion in dealing with others within and beyond the company
@@ -14,7 +13,7 @@ All employees have an obligation and duty of care to:
 5. Act appropriately when a conflict arises between our self-interest and our duty to the
    company
 
-#Personal Conduct
+# Personal Conduct
 All employees are expected to:
 1. Treat everyone with courtesy, respect, kindness, consideration, and sensitivity to their
    rights
@@ -31,7 +30,7 @@ All employees are expected to:
    to be in breach of the Code, and report any suspected corrupt, criminal or unethical
    conduct to senior manager.
 
-#Professional Conduct
+# Professional Conduct
 All employees are expected to:
 1. Perform our duties diligently, impartially, conscientiously, with integrity, and to the best
    of our ability
@@ -51,7 +50,7 @@ All employees are expected to:
 10.Refrain from allowing personal political views and/or affiliations or other personal
    interests to influence the performance of duties or exercise of responsibilities
    
-#Stewardship of company resources
+# Stewardship of company resources
 All employees are expected to:
 1. Use company technical and physical resources properly, responsibly and for
    legitimate purposes only
@@ -64,7 +63,7 @@ All employees are expected to:
 7. Maintain the security, integrity and confidentiality of all relevant company commercial
    and other information
 
-#Protection and promotion of the company’s reputation
+# Protection and promotion of the company’s reputation
 All employees are expected to:
 1. Promote the company wherever possible in our professional dealings with
    others
@@ -74,7 +73,7 @@ All employees are expected to:
 3. Refrain from engaging in any activity that may compromise the company’s
    integrity and reputation
 
-#Dealing with conflicts of interest
+# Dealing with conflicts of interest
 All employees are expected to:
 1. Ensure that our financial and other interests and actions do not
    conflict or seem to conflict with the obligations and requirements of
@@ -91,7 +90,7 @@ All employees are expected to:
 5. Declare our relationship when participating in decisions affecting
    another person with whom we have a personal relationship
 
-#Compliance and breaches
+# Compliance and breaches
 All company employees must comply with this Code of Conduct and report any breaches to
 their management Team.
 Employees whose conduct falls below the standards outlined in the Code will be counselled
